@@ -6,7 +6,7 @@
 
 # Password Generator
 
-[![Password-Generator][product-screenshot]](https://code-owl.github.io/Password-Generator/)
+[![Password-Generator][product-screenshot]](https://code-owl.github.io/Secure-PW-Generator/) 
 
 ### Project Usage
 
