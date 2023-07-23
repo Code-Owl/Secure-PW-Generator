@@ -27,7 +27,7 @@ This project is for people who want to create a strong password as fast and as s
 
 ## Contact
 
-Project Link: [https://github.com/Code-Owl/Password-Generator](https://github.com/Code-Owl/Password-Generator)
+Project Link: [https://github.com/Code-Owl/Secure-PW-Generator](https://github.com/Code-Owl/Secure-PW-Generator)
 
 <!-- ACKNOWLEDGMENTS -->
 
